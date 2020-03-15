@@ -1,2 +1,1 @@
-age = input("What is your age?: ")
-print(age)
+print(hello world)
